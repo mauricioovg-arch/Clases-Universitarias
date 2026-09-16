@@ -1,2 +1,5 @@
 # Clases-Universitarias
-Notebooks de materias 
+Notebooks de Taller de Modelacion 
+
+## Tareas
+1. Mínimos Cuadrados 
